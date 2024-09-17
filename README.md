@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gomande BRICE-TRESOR
+- 👀 I’m interested of technology
+- 🌱 I’m currently learning Data science and Marchine learning
+- 💞️ I’m looking to collaborate on Data science projets
+- 📫 How to reach me : tresorbrice1999@gmail.com
